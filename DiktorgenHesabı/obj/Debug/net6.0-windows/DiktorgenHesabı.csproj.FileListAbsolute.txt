@@ -1,0 +1,17 @@
+C:\Users\User\Source\Repos\DiktorgenHesabı\DiktorgenHesabı\bin\Debug\net6.0-windows\DiktorgenHesabı.exe
+C:\Users\User\Source\Repos\DiktorgenHesabı\DiktorgenHesabı\bin\Debug\net6.0-windows\DiktorgenHesabı.deps.json
+C:\Users\User\Source\Repos\DiktorgenHesabı\DiktorgenHesabı\bin\Debug\net6.0-windows\DiktorgenHesabı.runtimeconfig.json
+C:\Users\User\Source\Repos\DiktorgenHesabı\DiktorgenHesabı\bin\Debug\net6.0-windows\DiktorgenHesabı.dll
+C:\Users\User\Source\Repos\DiktorgenHesabı\DiktorgenHesabı\bin\Debug\net6.0-windows\DiktorgenHesabı.pdb
+C:\Users\User\Source\Repos\DiktorgenHesabı\DiktorgenHesabı\obj\Debug\net6.0-windows\DiktorgenHesabı.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\DiktorgenHesabı\DiktorgenHesabı\obj\Debug\net6.0-windows\DiktorgenHesabı.Form1.resources
+C:\Users\User\Source\Repos\DiktorgenHesabı\DiktorgenHesabı\obj\Debug\net6.0-windows\DiktorgenHesabı.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\DiktorgenHesabı\DiktorgenHesabı\obj\Debug\net6.0-windows\DiktorgenHesabı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\DiktorgenHesabı\DiktorgenHesabı\obj\Debug\net6.0-windows\DiktorgenHesabı.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\DiktorgenHesabı\DiktorgenHesabı\obj\Debug\net6.0-windows\DiktorgenHesabı.AssemblyInfo.cs
+C:\Users\User\Source\Repos\DiktorgenHesabı\DiktorgenHesabı\obj\Debug\net6.0-windows\DiktorgenHesabı.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\DiktorgenHesabı\DiktorgenHesabı\obj\Debug\net6.0-windows\DiktorgenHesabı.dll
+C:\Users\User\Source\Repos\DiktorgenHesabı\DiktorgenHesabı\obj\Debug\net6.0-windows\refint\DiktorgenHesabı.dll
+C:\Users\User\Source\Repos\DiktorgenHesabı\DiktorgenHesabı\obj\Debug\net6.0-windows\DiktorgenHesabı.pdb
+C:\Users\User\Source\Repos\DiktorgenHesabı\DiktorgenHesabı\obj\Debug\net6.0-windows\DiktorgenHesabı.genruntimeconfig.cache
+C:\Users\User\Source\Repos\DiktorgenHesabı\DiktorgenHesabı\obj\Debug\net6.0-windows\ref\DiktorgenHesabı.dll
